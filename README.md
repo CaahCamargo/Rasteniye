@@ -1,5 +1,5 @@
 # Rasteniye
 Trabalho de Conclusão de Curso - AUTOMAÇÃO DE IRRIGAÇÃO SUSTENTÁVEL COM ARDUÍNO
-
-Alunos: Caroline de Camargo e Guilherme Iago dos Reis
-Curso: Sistemas de Informação, Fundação Hermínio Ometto - FHO, 2023
+<br><br>
+<b>Alunos:</b> Caroline de Camargo e Guilherme Iago dos Reis <br>
+<b>Curso:</b> Sistemas de Informação, Fundação Hermínio Ometto - FHO, 2023
