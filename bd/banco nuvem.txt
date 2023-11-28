@@ -1,0 +1,23 @@
+link clever cloud
+https://console.clever-cloud.com/users/me/addons/addon_cc2de3c6-9b26-4f04-a298-fc9461b92e5e
+
+host
+bppxebupxzuv1cqe1tw4-mysql.services.clever-cloud.com
+
+database name
+bppxebupxzuv1cqe1tw4
+
+user
+uyxdtln97bpedj4z
+
+password
+rGUUNhx4FnBq3kWn32W9
+
+port
+3306
+
+connection uri
+mysql://uyxdtln97bpedj4z:rGUUNhx4FnBq3kWn32W9@bppxebupxzuv1cqe1tw4-mysql.services.clever-cloud.com:3306/bppxebupxzuv1cqe1tw4
+
+mysql cli
+mysql -h bppxebupxzuv1cqe1tw4-mysql.services.clever-cloud.com -P 3306 -u uyxdtln97bpedj4z -p bppxebupxzuv1cqe1tw4
